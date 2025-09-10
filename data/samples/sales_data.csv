@@ -1,0 +1,11 @@
+Date,Product,Category,Price,Quantity,Region,Revenue
+2023-01-01,Laptop,Electronics,999.99,5,North,4999.95
+2023-01-02,Mouse,Accessories,19.99,20,South,399.80
+2023-01-03,Keyboard,Accessories,49.99,15,East,749.85
+2023-01-04,Monitor,Electronics,199.99,7,West,1399.93
+2023-01-05,Headphones,Accessories,79.99,10,North,799.90
+2023-01-06,Laptop,Electronics,899.99,3,South,2699.97
+2023-01-07,Mouse,Accessories,24.99,25,East,624.75
+2023-01-08,Keyboard,Accessories,59.99,12,West,719.88
+2023-01-09,Monitor,Electronics,249.99,4,North,999.96
+2023-01-10,Headphones,Accessories,89.99,8,South,719.92

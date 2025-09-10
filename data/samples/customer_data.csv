@@ -1,0 +1,11 @@
+ID_Customer,Name,Age,Gender,City,Total_Spend,Order_Count,Last_Visit
+1,Customer_1,34,F,Milano,123.45,2,2025-09-01
+2,Customer_2,28,M,Roma,678.90,5,2025-09-05
+3,Customer_3,45,F,Napoli,234.56,3,2025-09-03
+4,Customer_4,37,M,Milano,789.01,6,2025-09-07
+5,Customer_5,52,F,Firenze,345.67,4,2025-09-02
+6,Customer_6,23,M,Torino,456.78,5,2025-09-06
+7,Customer_7,31,F,Roma,567.89,7,2025-09-04
+8,Customer_8,29,M,Milano,678.90,8,2025-09-08
+9,Customer_9,40,F,Napoli,789.01,9,2025-09-09
+10,Customer_10,33,M,Firenze,890.12,10,2025-09-10

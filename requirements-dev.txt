@@ -1,0 +1,46 @@
+# Development dependencies for CSV AI Agent
+
+# Testing
+pytest==8.3.2
+pytest-cov==5.0.0
+pytest-mock==3.14.0
+pytest-asyncio==0.24.0
+
+# Code Quality
+black==24.8.0              # Code formatting
+flake8==7.1.1              # Linting
+isort==5.13.2              # Import sorting
+mypy==1.11.2               # Type checking
+bandit==1.7.10             # Security analysis
+
+# Documentation
+sphinx==8.0.2             # Documentation generation
+sphinx-rtd-theme==2.0.0   # ReadTheDocs theme
+
+# Development Tools
+pre-commit==3.8.0         # Pre-commit hooks
+jupyter==1.0.0            # Jupyter notebooks for experimentation
+ipykernel==6.29.5         # Jupyter kernel
+nbformat==5.10.4          # Notebook format support
+
+# Profiling and Debugging
+memory-profiler==0.61.0   # Memory profiling
+py-spy==0.3.14            # CPU profiling
+pdb-attach==3.2.0         # Remote debugging
+
+# Performance Testing
+locust==2.31.8            # Load testing
+faker==26.3.0             # Generate fake data for testing
+
+# Development Utilities
+watchdog==4.0.2           # File system monitoring
+python-dotenv==1.0.1      # Environment variable management
+rich==13.8.0              # Beautiful terminal output
+
+# Database tools (for future extensions)
+sqlalchemy==2.0.35        # Database ORM
+alembic==1.13.2           # Database migrations
+
+# Optional: Advanced data science tools for development
+scikit-learn==1.5.2       # Machine learning
+scipy==1.14.1             # Scientific computing
