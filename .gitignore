@@ -104,7 +104,6 @@ __pycache__/
 !data/samples/*.csv
 
 # Screenshots (until you add real ones)
-assets/screenshots/*.png
 !assets/screenshots/.gitkeep
 
 # OS generated files
